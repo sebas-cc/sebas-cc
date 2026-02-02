@@ -83,7 +83,7 @@ I **optimize and fix existing ones** so they perform better and are easier to ma
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebas-cc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sebas-cc&theme=dark)](https://git.io/streak-stats)
 
 ---
 
